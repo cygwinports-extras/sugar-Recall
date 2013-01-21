@@ -1,0 +1,5 @@
+NAME="sugar-Recall"
+VERSION=3
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
